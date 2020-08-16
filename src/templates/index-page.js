@@ -16,7 +16,7 @@ export const IndexPageTemplate = ({
 }) => (
   <div style={{backgroundColor: 'black'}}>
     <div className="container is-widescreen">
-      <div className="columns is-vcentered" style={{margin: 0, marginTop: -100, backgroundColor: 'black'}}>
+      <div className="columns is-vcentered" style={{margin: 0, marginTop: -50, backgroundColor: 'black'}}>
         <div className="column">
           <Img fluid={image} className=""/>
         </div>
